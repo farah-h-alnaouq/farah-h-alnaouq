@@ -1,16 +1,19 @@
-## Hey 👋, I'm Farah!
-Front-End Developer 💻  
+## Hey 👋, I'm Farah! 💻
+Front-End Developer  
 
-I’m focused on learning and building web interfaces using modern front-end technologies.  
-I enjoy writing clean code, practicing regularly, and improving my skills step by step.
+<img align="right" alt="Coding" width="300"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+I’m focused on building and learning front-end web development using HTML, CSS, and JavaScript.  
+I enjoy practicing regularly and improving my skills through hands-on projects.
 
 ### 🧐 About Me
 
 - 💻 &nbsp; Working with **HTML, CSS, and JavaScript**
 - 🌱 &nbsp; Continuously learning front-end development
-- 📚 &nbsp; Building small projects to practice concepts
-- 👩‍💻 &nbsp; Sharing my work and progress on GitHub
-- 🤝 &nbsp; Open to collaboration and learning opportunities
+- 📚 &nbsp; Building small projects for practice
+- 👩‍💻 &nbsp; Sharing my work on GitHub
+- 🤝 &nbsp; Open to learning and collaboration
 
 ### 🔨 Languages & Tools
 
@@ -41,5 +44,4 @@ I enjoy writing clean code, practicing regularly, and improving my skills step b
 - 🧪 JavaScript fundamentals  
 
 > More projects coming soon 🚀
-
 
