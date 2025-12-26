@@ -1,19 +1,19 @@
 ## Hey 👋, I'm Farah! 💻
 Front-End Developer  
 
-<img align="right" alt="Girl Coding" width="300"
-src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" alt="Female Developer Illustration" width="320"
+src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 I’m focused on building and learning front-end web development using HTML, CSS, and JavaScript.  
-I enjoy practicing regularly and improving my skills through hands-on projects.
+I enjoy turning ideas into simple, clean web pages and improving my skills step by step.
 
 ### 🧐 About Me
 
-- 💻 &nbsp; Working with **HTML, CSS, and JavaScript**
-- 🌱 &nbsp; Continuously learning front-end development
-- 📚 &nbsp; Building small projects for practice
-- 👩‍💻 &nbsp; Sharing my work on GitHub
-- 🤝 &nbsp; Open to learning and collaboration
+- 💻 Working with **HTML, CSS, and JavaScript**
+- 🌱 Continuously learning front-end development
+- 📚 Practicing by building small projects
+- 👩‍💻 Sharing my progress on GitHub
+- 🤝 Open to learning and collaboration
 
 ### 🔨 Languages & Tools
 
@@ -44,4 +44,5 @@ I enjoy practicing regularly and improving my skills through hands-on projects.
 - 🧪 JavaScript basics  
 
 > More projects coming soon 🚀
+
 
