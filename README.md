@@ -1,18 +1,18 @@
 ## Hey 👋, I'm Farah!
-Beginner Front-End Developer 🌱💻  
+Front-End Developer 💻  
 
-I’m currently learning **Front-End Development** and taking my first steps in building web pages using basic web technologies.  
-I’m passionate about learning, practicing, and improving my coding skills day by day.
+I’m focused on learning and building web interfaces using modern front-end technologies.  
+I enjoy writing clean code, practicing regularly, and improving my skills step by step.
 
 ### 🧐 About Me
 
-- 🌱 &nbsp; Beginner in **Front-End Development**
-- 💻 &nbsp; Learning **HTML, CSS, and JavaScript**
-- 📚 &nbsp; Practicing by building small projects
-- 👩‍💻 &nbsp; Sharing my learning journey on GitHub
-- 🤝 &nbsp; Open to learning from others and beginner-friendly collaborations
+- 💻 &nbsp; Working with **HTML, CSS, and JavaScript**
+- 🌱 &nbsp; Continuously learning front-end development
+- 📚 &nbsp; Building small projects to practice concepts
+- 👩‍💻 &nbsp; Sharing my work and progress on GitHub
+- 🤝 &nbsp; Open to collaboration and learning opportunities
 
-### 🔨 Languages & Tools (Learning)
+### 🔨 Languages & Tools
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img align="left" alt="HTML" height="42px"
@@ -34,11 +34,12 @@ I’m passionate about learning, practicing, and improving my coding skills day 
 <br/>
 <br/>
 
-### 🛠️ Practice Projects
+### 🛠️ Projects
 
-- 🌐 Simple HTML & CSS pages  
-- 📱 Responsive layouts practice  
-- 🧪 JavaScript basics exercises  
+- 🌐 Web pages and layouts  
+- 📱 Responsive design practice  
+- 🧪 JavaScript fundamentals  
 
-> More projects will be added as I continue learning 🚀
+> More projects coming soon 🚀
+
 
