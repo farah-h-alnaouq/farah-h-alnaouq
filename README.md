@@ -1,8 +1,8 @@
 ## Hey 👋, I'm Farah! 💻
 Front-End Developer  
 
-<img align="right" alt="Coding" width="300"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Girl Coding" width="300"
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 I’m focused on building and learning front-end web development using HTML, CSS, and JavaScript.  
 I enjoy practicing regularly and improving my skills through hands-on projects.
@@ -40,8 +40,8 @@ I enjoy practicing regularly and improving my skills through hands-on projects.
 ### 🛠️ Projects
 
 - 🌐 Web pages and layouts  
-- 📱 Responsive design practice  
-- 🧪 JavaScript fundamentals  
+- 📱 Responsive practice  
+- 🧪 JavaScript basics  
 
 > More projects coming soon 🚀
 
